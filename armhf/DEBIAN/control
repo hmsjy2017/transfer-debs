@@ -1,0 +1,9 @@
+Package: transfer
+Version: 0.4.14
+Architecture: armhf
+Maintainer: Junyi Shi <hmsjy2019@gmail.com>
+Section: utils
+Priority: optional
+Homepage: https://github.com/Mikubill/transfer
+Description: Large file transfer tool with multiple file transfer services support
+License: MIT
